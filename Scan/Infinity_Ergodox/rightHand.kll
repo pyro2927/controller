@@ -1,14 +1,14 @@
 Name = MDErgo1 Right Hand;
 Version = 0.1;
-Author = "HaaTa (Jacob Alexander) 2015";
+Author = "pyro2927 (Joseph Pintozzi) 2016";
 KLL = 0.3c;
 
 # Modified Date
-Date = 2015-08-06;
+Date = 2016-10-17;
 
 
 # Top Row
-S0x02 : U"Function6";
+S0x02 : U"Equals";
 S0x03 : U"6";
 S0x04 : U"7";
 S0x05 : U"8";
@@ -23,7 +23,7 @@ S0x0D : U"U";
 S0x0E : U"I";
 S0x0F : U"O";
 S0x10 : U"P";
-S0x11 : U"Right Brace";
+S0x11 : U"Backslash";
 
 # Middle Row
 S0x15 : U"H";
@@ -38,7 +38,7 @@ S0x1B : U"RAlt";
 S0x1C : U"RCtrl";
 
 # Bottom-Middle Row
-S0x1D : U"Function7";
+S0x1D : U"Right Brace";
 S0x1E : U"N";
 S0x1F : U"M";
 S0x20 : U"Comma";
